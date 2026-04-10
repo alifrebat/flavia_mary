@@ -1,5 +1,13 @@
 *{
     margin: 0px;
     padding: 0px;
-    
+
+}
+
+#div_geral{
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #22b4ee;
+    width: 550px;
+    min-height: 600px;
 }
